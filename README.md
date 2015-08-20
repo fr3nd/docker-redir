@@ -21,7 +21,7 @@ linked, you're actually connecting to the parent host
 ### Scenario 1
 
 You have MySQL running in your parent host and a django app using this MySQL
-server. You want tu run this stack using fig:
+server. You want to run this stack using docker-compose:
 
 ```
 db:
