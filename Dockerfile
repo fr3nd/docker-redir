@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.6
 
 MAINTAINER Carles Amigó, fr3nd@fr3nd.net
 
